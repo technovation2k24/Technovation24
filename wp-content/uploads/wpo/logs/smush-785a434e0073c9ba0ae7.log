@@ -1,0 +1,308 @@
+[2024-09-06 20:07:04 : INFO] - Re_Smush_It_Task server status: Online 
+[2024-09-06 20:07:05 : INFO] - A total of 45 tasks of type smush found and will be processed in this iteration 
+[2024-09-06 20:07:05 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2024-09-06 20:07:05 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2024-09-06 20:07:05 : INFO] - Processing task with ID : 1, and type 'smush' 
+[2024-09-06 20:07:05 : INFO] - Re_Smush_It_Task - Attachment ID : 2106, Started on : September 06, 2024 08:07:05 
+[2024-09-06 20:07:05 : INFO] - File: demo-logo-2.png, Compression quality: 60 
+[2024-09-06 20:07:07 : INFO] - Backing up the original image - 2021/02/demo-logo-2-updraft-pre-smush-original.png 
+[2024-09-06 20:07:07 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-09-06 20:07:07 : INFO] - Successfully optimized the image - C:\xampp\htdocs\technovation24/wp-content/uploads/2021/02/demo-logo-2.png.The file was compressed from 32.33 KB to 12.06 KB, saving 62.7 percent, using WP-Optimize 
+[2024-09-06 20:07:07 : INFO] - Completed processing task with ID : 1, and type 'smush' 
+[2024-09-06 20:07:07 : INFO] - Processing task with ID : 2, and type 'smush' 
+[2024-09-06 20:07:07 : INFO] - Re_Smush_It_Task - Attachment ID : 2107, Started on : September 06, 2024 08:07:05 
+[2024-09-06 20:07:07 : INFO] - File: logo-demo-3.png, Compression quality: 60 
+[2024-09-06 20:07:09 : INFO] - Backing up the original image - 2021/02/logo-demo-3-updraft-pre-smush-original.png 
+[2024-09-06 20:07:09 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-09-06 20:07:09 : INFO] - Successfully optimized the image - C:\xampp\htdocs\technovation24/wp-content/uploads/2021/02/logo-demo-3.png.The file was compressed from 59.49 KB to 20.04 KB, saving 66.31 percent, using WP-Optimize 
+[2024-09-06 20:07:09 : INFO] - Completed processing task with ID : 2, and type 'smush' 
+[2024-09-06 20:07:09 : INFO] - Processing task with ID : 3, and type 'smush' 
+[2024-09-06 20:07:09 : INFO] - Re_Smush_It_Task - Attachment ID : 2109, Started on : September 06, 2024 08:07:05 
+[2024-09-06 20:07:09 : INFO] - File: demo-photo-2.png, Compression quality: 60 
+[2024-09-06 20:07:15 : INFO] - Backing up the original image - 2021/02/demo-photo-2-updraft-pre-smush-original.png 
+[2024-09-06 20:07:15 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-09-06 20:07:15 : INFO] - Successfully optimized the image - C:\xampp\htdocs\technovation24/wp-content/uploads/2021/02/demo-photo-2.png.The file was compressed from 1.51 MB to 411.01 KB, saving 73.44 percent, using WP-Optimize 
+[2024-09-06 20:07:15 : INFO] - Completed processing task with ID : 3, and type 'smush' 
+[2024-09-06 20:07:15 : INFO] - Processing task with ID : 4, and type 'smush' 
+[2024-09-06 20:07:15 : INFO] - Re_Smush_It_Task - Attachment ID : 2110, Started on : September 06, 2024 08:07:05 
+[2024-09-06 20:07:15 : INFO] - File: demo-photo-3.png, Compression quality: 60 
+[2024-09-06 20:07:35 : INFO] - Backing up the original image - 2021/02/demo-photo-3-updraft-pre-smush-original.png 
+[2024-09-06 20:07:35 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-09-06 20:07:35 : INFO] - Successfully optimized the image - C:\xampp\htdocs\technovation24/wp-content/uploads/2021/02/demo-photo-3.png.The file was compressed from 2.90 MB to 688.90 KB, saving 76.78 percent, using WP-Optimize 
+[2024-09-06 20:07:35 : INFO] - Completed processing task with ID : 4, and type 'smush' 
+[2024-09-06 20:07:35 : INFO] - Processing task with ID : 5, and type 'smush' 
+[2024-09-06 20:07:35 : INFO] - Re_Smush_It_Task - Attachment ID : 2203, Started on : September 06, 2024 08:07:05 
+[2024-09-06 20:07:35 : INFO] - File: pexels-dids-1616472-1-scaled-1.jpg, Compression quality: 60 
+[2024-09-06 20:07:37 : INFO] - Backing up the original image - 2021/02/pexels-dids-1616472-1-scaled-1-updraft-pre-smush-original.jpg 
+[2024-09-06 20:07:37 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-09-06 20:07:37 : INFO] - Successfully optimized the image - C:\xampp\htdocs\technovation24/wp-content/uploads/2021/02/pexels-dids-1616472-1-scaled-1.jpg.The file was compressed from 140.29 KB to 68.08 KB, saving 51.47 percent, using WP-Optimize 
+[2024-09-06 20:07:37 : INFO] - Completed processing task with ID : 5, and type 'smush' 
+[2024-09-06 20:07:37 : INFO] - Processing task with ID : 6, and type 'smush' 
+[2024-09-06 20:07:37 : INFO] - Re_Smush_It_Task - Attachment ID : 2318, Started on : September 06, 2024 08:07:05 
+[2024-09-06 20:07:37 : INFO] - File: adam-solomon-WHUDOzd5IYU-unsplash-1-scaled-1.jpg, Compression quality: 60 
+[2024-09-06 20:07:41 : INFO] - Backing up the original image - 2021/03/adam-solomon-WHUDOzd5IYU-unsplash-1-scaled-1-updraft-pre-smush-original.jpg 
+[2024-09-06 20:07:41 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-09-06 20:07:41 : INFO] - Successfully optimized the image - C:\xampp\htdocs\technovation24/wp-content/uploads/2021/03/adam-solomon-WHUDOzd5IYU-unsplash-1-scaled-1.jpg.The file was compressed from 713.65 KB to 407.22 KB, saving 42.94 percent, using WP-Optimize 
+[2024-09-06 20:07:41 : INFO] - Completed processing task with ID : 6, and type 'smush' 
+[2024-09-06 20:07:41 : INFO] - Processing task with ID : 7, and type 'smush' 
+[2024-09-06 20:07:41 : INFO] - Re_Smush_It_Task - Attachment ID : 2367, Started on : September 06, 2024 08:07:05 
+[2024-09-06 20:07:41 : INFO] - File: animated-arrow-form.gif, Compression quality: 60 
+[2024-09-06 20:07:46 : INFO] - Backing up the original image - 2021/03/animated-arrow-form-updraft-pre-smush-original.gif 
+[2024-09-06 20:07:46 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-09-06 20:07:46 : INFO] - Successfully optimized the image - C:\xampp\htdocs\technovation24/wp-content/uploads/2021/03/animated-arrow-form.gif.The file was compressed from 424.31 KB to 424.31 KB, saving 0 percent, using WP-Optimize 
+[2024-09-06 20:07:46 : INFO] - Completed processing task with ID : 7, and type 'smush' 
+[2024-09-06 20:07:46 : INFO] - Processing task with ID : 8, and type 'smush' 
+[2024-09-06 20:07:46 : INFO] - Re_Smush_It_Task - Attachment ID : 2407, Started on : September 06, 2024 08:07:05 
+[2024-09-06 20:07:46 : INFO] - File: demo-menu-header-scaled-1.jpg, Compression quality: 60 
+[2024-09-06 20:07:49 : INFO] - Backing up the original image - 2021/03/demo-menu-header-scaled-1-updraft-pre-smush-original.jpg 
+[2024-09-06 20:07:49 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-09-06 20:07:49 : INFO] - Successfully optimized the image - C:\xampp\htdocs\technovation24/wp-content/uploads/2021/03/demo-menu-header-scaled-1.jpg.The file was compressed from 373.79 KB to 167.40 KB, saving 55.22 percent, using WP-Optimize 
+[2024-09-06 20:07:49 : INFO] - Completed processing task with ID : 8, and type 'smush' 
+[2024-09-06 20:07:49 : INFO] - Processing task with ID : 9, and type 'smush' 
+[2024-09-06 20:07:49 : INFO] - Re_Smush_It_Task - Attachment ID : 2411, Started on : September 06, 2024 08:07:05 
+[2024-09-06 20:07:49 : INFO] - File: demo-gyoza-scaled-1.jpg, Compression quality: 60 
+[2024-09-06 20:07:52 : INFO] - Backing up the original image - 2021/03/demo-gyoza-scaled-1-updraft-pre-smush-original.jpg 
+[2024-09-06 20:07:52 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-09-06 20:07:52 : INFO] - Successfully optimized the image - C:\xampp\htdocs\technovation24/wp-content/uploads/2021/03/demo-gyoza-scaled-1.jpg.The file was compressed from 426.02 KB to 215.45 KB, saving 49.43 percent, using WP-Optimize 
+[2024-09-06 20:07:52 : INFO] - Completed processing task with ID : 9, and type 'smush' 
+[2024-09-06 20:07:52 : INFO] - Processing task with ID : 10, and type 'smush' 
+[2024-09-06 20:07:52 : INFO] - Re_Smush_It_Task - Attachment ID : 2418, Started on : September 06, 2024 08:07:05 
+[2024-09-06 20:07:52 : INFO] - File: demo-salmon-avocado-edited-scaled-1.jpg, Compression quality: 60 
+[2024-09-06 20:07:55 : INFO] - Backing up the original image - 2021/03/demo-salmon-avocado-edited-scaled-1-updraft-pre-smush-original.jpg 
+[2024-09-06 20:07:55 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-09-06 20:07:55 : INFO] - Successfully optimized the image - C:\xampp\htdocs\technovation24/wp-content/uploads/2021/03/demo-salmon-avocado-edited-scaled-1.jpg.The file was compressed from 438.39 KB to 226.44 KB, saving 48.35 percent, using WP-Optimize 
+[2024-09-06 20:07:55 : INFO] - Completed processing task with ID : 10, and type 'smush' 
+[2024-09-06 20:07:55 : INFO] - Processing task with ID : 11, and type 'smush' 
+[2024-09-06 20:07:55 : INFO] - Re_Smush_It_Task - Attachment ID : 2419, Started on : September 06, 2024 08:07:05 
+[2024-09-06 20:07:55 : INFO] - File: demo-lunch-edited-scaled-1.jpg, Compression quality: 60 
+[2024-09-06 20:07:59 : INFO] - Backing up the original image - 2021/03/demo-lunch-edited-scaled-1-updraft-pre-smush-original.jpg 
+[2024-09-06 20:07:59 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-09-06 20:07:59 : INFO] - Successfully optimized the image - C:\xampp\htdocs\technovation24/wp-content/uploads/2021/03/demo-lunch-edited-scaled-1.jpg.The file was compressed from 628.88 KB to 362.26 KB, saving 42.4 percent, using WP-Optimize 
+[2024-09-06 20:07:59 : INFO] - Completed processing task with ID : 11, and type 'smush' 
+[2024-09-06 20:07:59 : INFO] - Processing task with ID : 12, and type 'smush' 
+[2024-09-06 20:07:59 : INFO] - Re_Smush_It_Task - Attachment ID : 2420, Started on : September 06, 2024 08:07:05 
+[2024-09-06 20:07:59 : INFO] - File: demo-vegan-edited-scaled-1.jpg, Compression quality: 60 
+[2024-09-06 20:08:03 : INFO] - Backing up the original image - 2021/03/demo-vegan-edited-scaled-1-updraft-pre-smush-original.jpg 
+[2024-09-06 20:08:03 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-09-06 20:08:03 : INFO] - Successfully optimized the image - C:\xampp\htdocs\technovation24/wp-content/uploads/2021/03/demo-vegan-edited-scaled-1.jpg.The file was compressed from 836.46 KB to 302.71 KB, saving 63.81 percent, using WP-Optimize 
+[2024-09-06 20:08:03 : INFO] - Completed processing task with ID : 12, and type 'smush' 
+[2024-09-06 20:08:03 : INFO] - Processing task with ID : 13, and type 'smush' 
+[2024-09-06 20:08:03 : INFO] - Re_Smush_It_Task - Attachment ID : 2421, Started on : September 06, 2024 08:07:05 
+[2024-09-06 20:08:03 : INFO] - File: demo-salmon-edited-scaled-1.jpg, Compression quality: 60 
+[2024-09-06 20:08:05 : INFO] - A total of 33 tasks of type smush found and will be processed in this iteration 
+[2024-09-06 20:08:05 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2024-09-06 20:08:05 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2024-09-06 20:08:05 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-09-06 20:08:05 : INFO] - Cleaning up tasks of type (smush). A total of 12 tasks will be deleted. 
+[2024-09-06 20:08:07 : INFO] - Backing up the original image - 2021/03/demo-salmon-edited-scaled-1-updraft-pre-smush-original.jpg 
+[2024-09-06 20:08:07 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-09-06 20:08:07 : INFO] - Successfully optimized the image - C:\xampp\htdocs\technovation24/wp-content/uploads/2021/03/demo-salmon-edited-scaled-1.jpg.The file was compressed from 566.47 KB to 300.44 KB, saving 46.96 percent, using WP-Optimize 
+[2024-09-06 20:08:07 : INFO] - Completed processing task with ID : 13, and type 'smush' 
+[2024-09-06 20:08:07 : INFO] - Processing task with ID : 14, and type 'smush' 
+[2024-09-06 20:08:07 : INFO] - Re_Smush_It_Task - Attachment ID : 2422, Started on : September 06, 2024 08:07:05 
+[2024-09-06 20:08:07 : INFO] - File: demo-sashimi-deluxe-edited-scaled-1.jpg, Compression quality: 60 
+[2024-09-06 20:08:13 : INFO] - Backing up the original image - 2021/03/demo-sashimi-deluxe-edited-scaled-1-updraft-pre-smush-original.jpg 
+[2024-09-06 20:08:13 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-09-06 20:08:13 : INFO] - Successfully optimized the image - C:\xampp\htdocs\technovation24/wp-content/uploads/2021/03/demo-sashimi-deluxe-edited-scaled-1.jpg.The file was compressed from 639.81 KB to 361.95 KB, saving 43.43 percent, using WP-Optimize 
+[2024-09-06 20:08:13 : INFO] - Completed processing task with ID : 14, and type 'smush' 
+[2024-09-06 20:08:13 : INFO] - Processing task with ID : 15, and type 'smush' 
+[2024-09-06 20:08:13 : INFO] - Re_Smush_It_Task - Attachment ID : 2423, Started on : September 06, 2024 08:07:05 
+[2024-09-06 20:08:13 : INFO] - File: demo-tofu-katsu-edited-scaled-1.jpg, Compression quality: 60 
+[2024-09-06 20:08:18 : INFO] - Backing up the original image - 2021/03/demo-tofu-katsu-edited-scaled-1-updraft-pre-smush-original.jpg 
+[2024-09-06 20:08:18 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-09-06 20:08:18 : INFO] - Successfully optimized the image - C:\xampp\htdocs\technovation24/wp-content/uploads/2021/03/demo-tofu-katsu-edited-scaled-1.jpg.The file was compressed from 714.85 KB to 406.48 KB, saving 43.14 percent, using WP-Optimize 
+[2024-09-06 20:08:18 : INFO] - Completed processing task with ID : 15, and type 'smush' 
+[2024-09-06 20:08:18 : INFO] - Processing task with ID : 16, and type 'smush' 
+[2024-09-06 20:08:18 : INFO] - Re_Smush_It_Task - Attachment ID : 2424, Started on : September 06, 2024 08:07:05 
+[2024-09-06 20:08:18 : INFO] - File: demo-eel-bento-edited-scaled-1.jpg, Compression quality: 60 
+[2024-09-06 20:08:23 : INFO] - Backing up the original image - 2021/03/demo-eel-bento-edited-scaled-1-updraft-pre-smush-original.jpg 
+[2024-09-06 20:08:23 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-09-06 20:08:23 : INFO] - Successfully optimized the image - C:\xampp\htdocs\technovation24/wp-content/uploads/2021/03/demo-eel-bento-edited-scaled-1.jpg.The file was compressed from 605.83 KB to 327.23 KB, saving 45.99 percent, using WP-Optimize 
+[2024-09-06 20:08:23 : INFO] - Completed processing task with ID : 16, and type 'smush' 
+[2024-09-06 20:08:23 : INFO] - Processing task with ID : 17, and type 'smush' 
+[2024-09-06 20:08:23 : INFO] - Re_Smush_It_Task - Attachment ID : 2425, Started on : September 06, 2024 08:07:05 
+[2024-09-06 20:08:23 : INFO] - File: demo-chocolate-edited-scaled-1.jpg, Compression quality: 60 
+[2024-09-06 20:08:27 : INFO] - Backing up the original image - 2021/03/demo-chocolate-edited-scaled-1-updraft-pre-smush-original.jpg 
+[2024-09-06 20:08:27 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-09-06 20:08:27 : INFO] - Successfully optimized the image - C:\xampp\htdocs\technovation24/wp-content/uploads/2021/03/demo-chocolate-edited-scaled-1.jpg.The file was compressed from 422.54 KB to 219.35 KB, saving 48.09 percent, using WP-Optimize 
+[2024-09-06 20:08:27 : INFO] - Completed processing task with ID : 17, and type 'smush' 
+[2024-09-06 20:08:27 : INFO] - Processing task with ID : 18, and type 'smush' 
+[2024-09-06 20:08:27 : INFO] - Re_Smush_It_Task - Attachment ID : 2426, Started on : September 06, 2024 08:07:05 
+[2024-09-06 20:08:27 : INFO] - File: demo-cream-puff-edited-scaled-1.jpg, Compression quality: 60 
+[2024-09-06 20:08:29 : INFO] - Backing up the original image - 2021/03/demo-cream-puff-edited-scaled-1-updraft-pre-smush-original.jpg 
+[2024-09-06 20:08:29 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-09-06 20:08:29 : INFO] - Successfully optimized the image - C:\xampp\htdocs\technovation24/wp-content/uploads/2021/03/demo-cream-puff-edited-scaled-1.jpg.The file was compressed from 289.34 KB to 145.54 KB, saving 49.7 percent, using WP-Optimize 
+[2024-09-06 20:08:29 : INFO] - Completed processing task with ID : 18, and type 'smush' 
+[2024-09-06 20:08:29 : INFO] - Processing task with ID : 19, and type 'smush' 
+[2024-09-06 20:08:29 : INFO] - Re_Smush_It_Task - Attachment ID : 2456, Started on : September 06, 2024 08:07:05 
+[2024-09-06 20:08:29 : INFO] - File: contact-us.jpeg, Compression quality: 60 
+[2024-09-06 20:08:31 : INFO] - Backing up the original image - 2024/09/contact-us-updraft-pre-smush-original.jpeg 
+[2024-09-06 20:08:31 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-09-06 20:08:31 : INFO] - Successfully optimized the image - C:\xampp\htdocs\technovation24/wp-content/uploads/2024/09/contact-us.jpeg.The file was compressed from 36.34 KB to 25.37 KB, saving 30.18 percent, using WP-Optimize 
+[2024-09-06 20:08:31 : INFO] - Completed processing task with ID : 19, and type 'smush' 
+[2024-09-06 20:08:31 : INFO] - Processing task with ID : 20, and type 'smush' 
+[2024-09-06 20:08:31 : INFO] - Re_Smush_It_Task - Attachment ID : 2466, Started on : September 06, 2024 08:07:05 
+[2024-09-06 20:08:31 : INFO] - File: workshop.jpg, Compression quality: 60 
+[2024-09-06 20:08:33 : INFO] - Backing up the original image - 2024/09/workshop-updraft-pre-smush-original.jpg 
+[2024-09-06 20:08:33 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-09-06 20:08:33 : INFO] - Successfully optimized the image - C:\xampp\htdocs\technovation24/wp-content/uploads/2024/09/workshop.jpg.The file was compressed from 188.85 KB to 143.33 KB, saving 24.1 percent, using WP-Optimize 
+[2024-09-06 20:08:33 : INFO] - Completed processing task with ID : 20, and type 'smush' 
+[2024-09-06 20:08:33 : INFO] - Processing task with ID : 21, and type 'smush' 
+[2024-09-06 20:08:33 : INFO] - Re_Smush_It_Task - Attachment ID : 2486, Started on : September 06, 2024 08:07:05 
+[2024-09-06 20:08:33 : INFO] - File: computer-icon-1024x1024-q34qlzrf.png, Compression quality: 60 
+[2024-09-06 20:08:35 : INFO] - Backing up the original image - 2024/09/computer-icon-1024x1024-q34qlzrf-updraft-pre-smush-original.png 
+[2024-09-06 20:08:35 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-09-06 20:08:35 : INFO] - Successfully optimized the image - C:\xampp\htdocs\technovation24/wp-content/uploads/2024/09/computer-icon-1024x1024-q34qlzrf.png.The file was compressed from 42.79 KB to 19.51 KB, saving 54.42 percent, using WP-Optimize 
+[2024-09-06 20:08:35 : INFO] - Completed processing task with ID : 21, and type 'smush' 
+[2024-09-06 20:08:35 : INFO] - Processing task with ID : 22, and type 'smush' 
+[2024-09-06 20:08:35 : INFO] - Re_Smush_It_Task - Attachment ID : 2490, Started on : September 06, 2024 08:07:05 
+[2024-09-06 20:08:35 : INFO] - File: 900967.png, Compression quality: 60 
+[2024-09-06 20:08:36 : INFO] - Backing up the original image - 2024/09/900967-updraft-pre-smush-original.png 
+[2024-09-06 20:08:36 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-09-06 20:08:36 : INFO] - Successfully optimized the image - C:\xampp\htdocs\technovation24/wp-content/uploads/2024/09/900967.png.The file was compressed from 28.29 KB to 15.08 KB, saving 46.69 percent, using WP-Optimize 
+[2024-09-06 20:08:36 : INFO] - Completed processing task with ID : 22, and type 'smush' 
+[2024-09-06 20:08:36 : INFO] - Processing task with ID : 23, and type 'smush' 
+[2024-09-06 20:08:36 : INFO] - Task with ID 23 and type (smush) failed with error code exceeded_max_filesize - C:\xampp\htdocs\technovation24/wp-content/uploads/2024/09/Picsart_23-10-31_11-02-12-353.jpg - cannot be optimized, file size is above service provider limit 
+[2024-09-06 20:08:36 : INFO] - Processing task with ID : 24, and type 'smush' 
+[2024-09-06 20:08:36 : INFO] - Re_Smush_It_Task - Attachment ID : 2500, Started on : September 06, 2024 08:07:05 
+[2024-09-06 20:08:36 : INFO] - File: site-bg.jpeg, Compression quality: 60 
+[2024-09-06 20:08:37 : INFO] - Backing up the original image - 2024/09/site-bg-updraft-pre-smush-original.jpeg 
+[2024-09-06 20:08:37 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-09-06 20:08:37 : INFO] - Successfully optimized the image - C:\xampp\htdocs\technovation24/wp-content/uploads/2024/09/site-bg.jpeg.The file was compressed from 20.63 KB to 16.25 KB, saving 21.23 percent, using WP-Optimize 
+[2024-09-06 20:08:37 : INFO] - Completed processing task with ID : 24, and type 'smush' 
+[2024-09-06 20:08:37 : INFO] - Processing task with ID : 25, and type 'smush' 
+[2024-09-06 20:08:37 : INFO] - Re_Smush_It_Task - Attachment ID : 2506, Started on : September 06, 2024 08:07:05 
+[2024-09-06 20:08:37 : INFO] - File: teacher-giving-computer-science-lecture-to-diverse-multiethnic-group-of-female-and-male.jpeg, Compression quality: 60 
+[2024-09-06 20:08:38 : INFO] - Backing up the original image - 2024/09/teacher-giving-computer-science-lecture-to-diverse-multiethnic-group-of-female-and-male-updraft-pre-smush-original.jpeg 
+[2024-09-06 20:08:38 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-09-06 20:08:38 : INFO] - Successfully optimized the image - C:\xampp\htdocs\technovation24/wp-content/uploads/2024/09/teacher-giving-computer-science-lecture-to-diverse-multiethnic-group-of-female-and-male.jpeg.The file was compressed from 29.61 KB to 22.54 KB, saving 23.89 percent, using WP-Optimize 
+[2024-09-06 20:08:38 : INFO] - Completed processing task with ID : 25, and type 'smush' 
+[2024-09-06 20:08:38 : INFO] - Processing task with ID : 26, and type 'smush' 
+[2024-09-06 20:08:38 : INFO] - Task with ID 26 and type (smush) failed with error code exceeded_max_filesize - C:\xampp\htdocs\technovation24/wp-content/uploads/2024/09/programming-background-with-person-working-with-codes-computer.jpg - cannot be optimized, file size is above service provider limit 
+[2024-09-06 20:08:38 : INFO] - Processing task with ID : 27, and type 'smush' 
+[2024-09-06 20:08:38 : INFO] - Re_Smush_It_Task - Attachment ID : 2509, Started on : September 06, 2024 08:07:05 
+[2024-09-06 20:08:38 : INFO] - File: Gemini_Generated_Image_pi6qynpi6qynpi6q.jpeg, Compression quality: 60 
+[2024-09-06 20:08:42 : INFO] - Backing up the original image - 2024/09/Gemini_Generated_Image_pi6qynpi6qynpi6q-updraft-pre-smush-original.jpeg 
+[2024-09-06 20:08:42 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-09-06 20:08:42 : INFO] - Successfully optimized the image - C:\xampp\htdocs\technovation24/wp-content/uploads/2024/09/Gemini_Generated_Image_pi6qynpi6qynpi6q.jpeg.The file was compressed from 226.87 KB to 133.82 KB, saving 41.02 percent, using WP-Optimize 
+[2024-09-06 20:08:42 : INFO] - Completed processing task with ID : 27, and type 'smush' 
+[2024-09-06 20:08:42 : INFO] - Processing task with ID : 28, and type 'smush' 
+[2024-09-06 20:08:42 : INFO] - Re_Smush_It_Task - Attachment ID : 2510, Started on : September 06, 2024 08:07:05 
+[2024-09-06 20:08:42 : INFO] - File: teemu-paananen-bzdhc5b3Bxs-unsplash__1_.jpeg, Compression quality: 60 
+[2024-09-06 20:08:46 : INFO] - Backing up the original image - 2024/09/teemu-paananen-bzdhc5b3Bxs-unsplash__1_-updraft-pre-smush-original.jpeg 
+[2024-09-06 20:08:46 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-09-06 20:08:46 : INFO] - Successfully optimized the image - C:\xampp\htdocs\technovation24/wp-content/uploads/2024/09/teemu-paananen-bzdhc5b3Bxs-unsplash__1_.jpeg.The file was compressed from 1.12 MB to 453.66 KB, saving 60.44 percent, using WP-Optimize 
+[2024-09-06 20:08:46 : INFO] - Completed processing task with ID : 28, and type 'smush' 
+[2024-09-06 20:08:46 : INFO] - Processing task with ID : 29, and type 'smush' 
+[2024-09-06 20:08:46 : INFO] - Re_Smush_It_Task - Attachment ID : 2511, Started on : September 06, 2024 08:07:05 
+[2024-09-06 20:08:46 : INFO] - File: WORJSHOP.jpg, Compression quality: 60 
+[2024-09-06 20:08:47 : INFO] - Backing up the original image - 2024/09/WORJSHOP-updraft-pre-smush-original.jpg 
+[2024-09-06 20:08:47 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-09-06 20:08:47 : INFO] - Successfully optimized the image - C:\xampp\htdocs\technovation24/wp-content/uploads/2024/09/WORJSHOP.jpg.The file was compressed from 99.95 KB to 28.25 KB, saving 71.73 percent, using WP-Optimize 
+[2024-09-06 20:08:47 : INFO] - Completed processing task with ID : 29, and type 'smush' 
+[2024-09-06 20:08:47 : INFO] - Processing task with ID : 30, and type 'smush' 
+[2024-09-06 20:08:47 : INFO] - Task with ID 30 and type (smush) failed with error code exceeded_max_filesize - C:\xampp\htdocs\technovation24/wp-content/uploads/2024/09/WEBCRAFT.jpg - cannot be optimized, file size is above service provider limit 
+[2024-09-06 20:08:47 : INFO] - Processing task with ID : 31, and type 'smush' 
+[2024-09-06 20:08:47 : INFO] - Re_Smush_It_Task - Attachment ID : 2513, Started on : September 06, 2024 08:07:05 
+[2024-09-06 20:08:47 : INFO] - File: TRICODE.jpg, Compression quality: 60 
+[2024-09-06 20:08:51 : INFO] - Backing up the original image - 2024/09/TRICODE-updraft-pre-smush-original.jpg 
+[2024-09-06 20:08:51 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-09-06 20:08:51 : INFO] - Successfully optimized the image - C:\xampp\htdocs\technovation24/wp-content/uploads/2024/09/TRICODE.jpg.The file was compressed from 1.07 MB to 160.70 KB, saving 85.28 percent, using WP-Optimize 
+[2024-09-06 20:08:51 : INFO] - Completed processing task with ID : 31, and type 'smush' 
+[2024-09-06 20:08:51 : INFO] - Processing task with ID : 32, and type 'smush' 
+[2024-09-06 20:08:51 : INFO] - Re_Smush_It_Task - Attachment ID : 2514, Started on : September 06, 2024 08:07:05 
+[2024-09-06 20:08:51 : INFO] - File: PAPER-NEXUS.jpg, Compression quality: 60 
+[2024-09-06 20:08:57 : INFO] - Backing up the original image - 2024/09/PAPER-NEXUS-updraft-pre-smush-original.jpg 
+[2024-09-06 20:08:57 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-09-06 20:08:57 : INFO] - Successfully optimized the image - C:\xampp\htdocs\technovation24/wp-content/uploads/2024/09/PAPER-NEXUS.jpg.The file was compressed from 2.48 MB to 464.37 KB, saving 81.74 percent, using WP-Optimize 
+[2024-09-06 20:08:57 : INFO] - Completed processing task with ID : 32, and type 'smush' 
+[2024-09-06 20:08:57 : INFO] - Processing task with ID : 33, and type 'smush' 
+[2024-09-06 20:08:57 : INFO] - Re_Smush_It_Task - Attachment ID : 2515, Started on : September 06, 2024 08:07:05 
+[2024-09-06 20:08:57 : INFO] - File: VISUAL-VISTA.jpg, Compression quality: 60 
+[2024-09-06 20:09:02 : INFO] - Backing up the original image - 2024/09/VISUAL-VISTA-updraft-pre-smush-original.jpg 
+[2024-09-06 20:09:02 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-09-06 20:09:02 : INFO] - Successfully optimized the image - C:\xampp\htdocs\technovation24/wp-content/uploads/2024/09/VISUAL-VISTA.jpg.The file was compressed from 1.47 MB to 249.95 KB, saving 83.45 percent, using WP-Optimize 
+[2024-09-06 20:09:02 : INFO] - Completed processing task with ID : 33, and type 'smush' 
+[2024-09-06 20:09:02 : INFO] - Processing task with ID : 34, and type 'smush' 
+[2024-09-06 20:09:02 : INFO] - Re_Smush_It_Task - Attachment ID : 2520, Started on : September 06, 2024 08:07:05 
+[2024-09-06 20:09:02 : INFO] - File: CRYPT.jpg, Compression quality: 60 
+[2024-09-06 20:09:04 : INFO] - Backing up the original image - 2024/09/CRYPT-updraft-pre-smush-original.jpg 
+[2024-09-06 20:09:04 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-09-06 20:09:04 : INFO] - Successfully optimized the image - C:\xampp\htdocs\technovation24/wp-content/uploads/2024/09/CRYPT.jpg.The file was compressed from 287.52 KB to 90.15 KB, saving 68.65 percent, using WP-Optimize 
+[2024-09-06 20:09:04 : INFO] - Completed processing task with ID : 34, and type 'smush' 
+[2024-09-06 20:09:04 : INFO] - Processing task with ID : 35, and type 'smush' 
+[2024-09-06 20:09:04 : INFO] - Re_Smush_It_Task - Attachment ID : 2521, Started on : September 06, 2024 08:07:05 
+[2024-09-06 20:09:04 : INFO] - File: SHOWCASE.jpg, Compression quality: 60 
+[2024-09-06 20:09:06 : INFO] - A total of 11 tasks of type smush found and will be processed in this iteration 
+[2024-09-06 20:09:06 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2024-09-06 20:09:06 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2024-09-06 20:09:06 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-09-06 20:09:06 : INFO] - Cleaning up tasks of type (smush). A total of 19 tasks will be deleted. 
+[2024-09-06 20:09:07 : INFO] - Backing up the original image - 2024/09/SHOWCASE-updraft-pre-smush-original.jpg 
+[2024-09-06 20:09:07 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-09-06 20:09:07 : INFO] - Successfully optimized the image - C:\xampp\htdocs\technovation24/wp-content/uploads/2024/09/SHOWCASE.jpg.The file was compressed from 380.92 KB to 101.95 KB, saving 73.23 percent, using WP-Optimize 
+[2024-09-06 20:09:07 : INFO] - Completed processing task with ID : 35, and type 'smush' 
+[2024-09-06 20:09:07 : INFO] - Processing task with ID : 36, and type 'smush' 
+[2024-09-06 20:09:07 : INFO] - Re_Smush_It_Task - Attachment ID : 2522, Started on : September 06, 2024 08:07:05 
+[2024-09-06 20:09:07 : INFO] - File: SNAPBUDDY.jpg, Compression quality: 60 
+[2024-09-06 20:09:08 : INFO] - Backing up the original image - 2024/09/SNAPBUDDY-updraft-pre-smush-original.jpg 
+[2024-09-06 20:09:08 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-09-06 20:09:08 : INFO] - Successfully optimized the image - C:\xampp\htdocs\technovation24/wp-content/uploads/2024/09/SNAPBUDDY.jpg.The file was compressed from 95.57 KB to 17.16 KB, saving 82.05 percent, using WP-Optimize 
+[2024-09-06 20:09:08 : INFO] - Completed processing task with ID : 36, and type 'smush' 
+[2024-09-06 20:09:08 : INFO] - Processing task with ID : 37, and type 'smush' 
+[2024-09-06 20:09:08 : INFO] - Re_Smush_It_Task - Attachment ID : 2526, Started on : September 06, 2024 08:07:05 
+[2024-09-06 20:09:08 : INFO] - File: DESIGN-FORGE.jpg, Compression quality: 60 
+[2024-09-06 20:09:10 : INFO] - Backing up the original image - 2024/09/DESIGN-FORGE-updraft-pre-smush-original.jpg 
+[2024-09-06 20:09:10 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-09-06 20:09:10 : INFO] - Successfully optimized the image - C:\xampp\htdocs\technovation24/wp-content/uploads/2024/09/DESIGN-FORGE.jpg.The file was compressed from 84.00 KB to 29.07 KB, saving 65.4 percent, using WP-Optimize 
+[2024-09-06 20:09:10 : INFO] - Completed processing task with ID : 37, and type 'smush' 
+[2024-09-06 20:09:10 : INFO] - Processing task with ID : 38, and type 'smush' 
+[2024-09-06 20:09:10 : INFO] - Re_Smush_It_Task - Attachment ID : 2535, Started on : September 06, 2024 08:07:05 
+[2024-09-06 20:09:10 : INFO] - File: IMG-20231031-WA0016.jpg, Compression quality: 60 
+[2024-09-06 20:09:12 : INFO] - Backing up the original image - 2024/09/IMG-20231031-WA0016-updraft-pre-smush-original.jpg 
+[2024-09-06 20:09:12 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-09-06 20:09:12 : INFO] - Successfully optimized the image - C:\xampp\htdocs\technovation24/wp-content/uploads/2024/09/IMG-20231031-WA0016.jpg.The file was compressed from 111.81 KB to 97.60 KB, saving 12.72 percent, using WP-Optimize 
+[2024-09-06 20:09:12 : INFO] - Completed processing task with ID : 38, and type 'smush' 
+[2024-09-06 20:09:12 : INFO] - Processing task with ID : 39, and type 'smush' 
+[2024-09-06 20:09:12 : INFO] - Re_Smush_It_Task - Attachment ID : 2536, Started on : September 06, 2024 08:07:05 
+[2024-09-06 20:09:12 : INFO] - File: IMG-20231031-WA0011.jpg, Compression quality: 60 
+[2024-09-06 20:09:14 : INFO] - Backing up the original image - 2024/09/IMG-20231031-WA0011-updraft-pre-smush-original.jpg 
+[2024-09-06 20:09:14 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-09-06 20:09:14 : INFO] - Successfully optimized the image - C:\xampp\htdocs\technovation24/wp-content/uploads/2024/09/IMG-20231031-WA0011.jpg.The file was compressed from 115.70 KB to 100.81 KB, saving 12.87 percent, using WP-Optimize 
+[2024-09-06 20:09:14 : INFO] - Completed processing task with ID : 39, and type 'smush' 
+[2024-09-06 20:09:14 : INFO] - Processing task with ID : 40, and type 'smush' 
+[2024-09-06 20:09:14 : INFO] - Re_Smush_It_Task - Attachment ID : 2537, Started on : September 06, 2024 08:07:05 
+[2024-09-06 20:09:14 : INFO] - File: IMG-20231031-WA0026.jpg, Compression quality: 60 
+[2024-09-06 20:09:16 : INFO] - Backing up the original image - 2024/09/IMG-20231031-WA0026-updraft-pre-smush-original.jpg 
+[2024-09-06 20:09:16 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-09-06 20:09:16 : INFO] - Successfully optimized the image - C:\xampp\htdocs\technovation24/wp-content/uploads/2024/09/IMG-20231031-WA0026.jpg.The file was compressed from 125.96 KB to 110.13 KB, saving 12.57 percent, using WP-Optimize 
+[2024-09-06 20:09:16 : INFO] - Completed processing task with ID : 40, and type 'smush' 
+[2024-09-06 20:09:16 : INFO] - Processing task with ID : 41, and type 'smush' 
+[2024-09-06 20:09:16 : INFO] - Re_Smush_It_Task - Attachment ID : 2538, Started on : September 06, 2024 08:07:05 
+[2024-09-06 20:09:16 : INFO] - File: IMG-20231031-WA0029.jpg, Compression quality: 60 
+[2024-09-06 20:09:18 : INFO] - Backing up the original image - 2024/09/IMG-20231031-WA0029-updraft-pre-smush-original.jpg 
+[2024-09-06 20:09:18 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-09-06 20:09:18 : INFO] - Successfully optimized the image - C:\xampp\htdocs\technovation24/wp-content/uploads/2024/09/IMG-20231031-WA0029.jpg.The file was compressed from 118.29 KB to 103.59 KB, saving 12.43 percent, using WP-Optimize 
+[2024-09-06 20:09:18 : INFO] - Completed processing task with ID : 41, and type 'smush' 
+[2024-09-06 20:09:18 : INFO] - Processing task with ID : 42, and type 'smush' 
+[2024-09-06 20:09:18 : INFO] - Task with ID 42 and type (smush) failed with error code exceeded_max_filesize - C:\xampp\htdocs\technovation24/wp-content/uploads/2024/09/IMG_5106-03.jpeg - cannot be optimized, file size is above service provider limit 
+[2024-09-06 20:09:18 : INFO] - Processing task with ID : 43, and type 'smush' 
+[2024-09-06 20:09:18 : INFO] - Task with ID 43 and type (smush) failed with error code exceeded_max_filesize - C:\xampp\htdocs\technovation24/wp-content/uploads/2024/09/IMG_4997-01.jpeg - cannot be optimized, file size is above service provider limit 
+[2024-09-06 20:09:18 : INFO] - Processing task with ID : 44, and type 'smush' 
+[2024-09-06 20:09:18 : INFO] - Re_Smush_It_Task - Attachment ID : 2541, Started on : September 06, 2024 08:07:05 
+[2024-09-06 20:09:18 : INFO] - File: IMG-20231031-WA0043.jpg, Compression quality: 60 
+[2024-09-06 20:09:20 : INFO] - Backing up the original image - 2024/09/IMG-20231031-WA0043-updraft-pre-smush-original.jpg 
+[2024-09-06 20:09:20 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-09-06 20:09:20 : INFO] - Successfully optimized the image - C:\xampp\htdocs\technovation24/wp-content/uploads/2024/09/IMG-20231031-WA0043.jpg.The file was compressed from 141.35 KB to 123.54 KB, saving 12.6 percent, using WP-Optimize 
+[2024-09-06 20:09:20 : INFO] - Completed processing task with ID : 44, and type 'smush' 
+[2024-09-06 20:09:20 : INFO] - Processing task with ID : 45, and type 'smush' 
+[2024-09-06 20:09:20 : INFO] - Re_Smush_It_Task - Attachment ID : 2542, Started on : September 06, 2024 08:07:05 
+[2024-09-06 20:09:20 : INFO] - File: IMG-20231031-WA0049.jpg, Compression quality: 60 
+[2024-09-06 20:09:22 : INFO] - Backing up the original image - 2024/09/IMG-20231031-WA0049-updraft-pre-smush-original.jpg 
+[2024-09-06 20:09:22 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-09-06 20:09:22 : INFO] - Successfully optimized the image - C:\xampp\htdocs\technovation24/wp-content/uploads/2024/09/IMG-20231031-WA0049.jpg.The file was compressed from 158.82 KB to 138.49 KB, saving 12.8 percent, using WP-Optimize 
+[2024-09-06 20:09:22 : INFO] - Completed processing task with ID : 45, and type 'smush' 
+[2024-09-06 20:09:22 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2024-09-06 20:09:22 : INFO] - Successfully processed the queue (smush). 45 tasks were processed out of 45. 
+[2024-09-06 20:09:22 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2024-09-06 20:09:22 : INFO] - Cleaning up tasks of type (smush). A total of 9 tasks will be deleted. 
